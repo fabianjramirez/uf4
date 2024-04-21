@@ -1,1 +1,2 @@
 Este es el contenido del fichero 1
+Cambio del Release version 1.0
